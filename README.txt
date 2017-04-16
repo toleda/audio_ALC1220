@@ -10,7 +10,7 @@ Update: Download/Double click and done.
 See https://github.com/toleda/audio_RealtekALC
 or https://github.com/toleda/audio_CloverALC
 
-Use (xy is latest macOS release, i.e.: 10.12, xyz = 120, 0 version supports all releases):
+Use (xyz is latest macOS release, i.e.: 10.12, xyz = 120, 0 version supports all releases):
 1. audio_cloverALC-xyz.command (recommended)
 2. audio_realtekALC-xyz.command
 
